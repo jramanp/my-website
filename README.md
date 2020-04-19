@@ -2,3 +2,5 @@
 My Website for testing and development
 
 Difference between git fetch and pull
+
+Updating the file to resolve the conflict 
