@@ -7,4 +7,6 @@ Updating the file to resolve the conflict
 
 Comparing the changes with pull request with master branch
 
-Expected to get conflict the error
+Update the file to resolv the conflict
+
+
